@@ -1,0 +1,24 @@
+C:\Users\Pelin\Desktop\Nesneye Yönelik Programlama\çalışmalar\Veri-Odev-2-Soru-2\Veri-Odev-2-Soru-2\bin\Debug\Veri-Odev-2-Soru-2.exe.config
+C:\Users\Pelin\Desktop\Nesneye Yönelik Programlama\çalışmalar\Veri-Odev-2-Soru-2\Veri-Odev-2-Soru-2\bin\Debug\Veri-Odev-2-Soru-2.exe
+C:\Users\Pelin\Desktop\Nesneye Yönelik Programlama\çalışmalar\Veri-Odev-2-Soru-2\Veri-Odev-2-Soru-2\bin\Debug\Veri-Odev-2-Soru-2.pdb
+C:\Users\Pelin\Desktop\Nesneye Yönelik Programlama\çalışmalar\Veri-Odev-2-Soru-2\Veri-Odev-2-Soru-2\obj\Debug\Veri-Odev-2-Soru-2.csprojResolveAssemblyReference.cache
+C:\Users\Pelin\Desktop\Nesneye Yönelik Programlama\çalışmalar\Veri-Odev-2-Soru-2\Veri-Odev-2-Soru-2\obj\Debug\Veri_Odev_2_Soru_2.frmSoru2.resources
+C:\Users\Pelin\Desktop\Nesneye Yönelik Programlama\çalışmalar\Veri-Odev-2-Soru-2\Veri-Odev-2-Soru-2\obj\Debug\Veri_Odev_2_Soru_2.Properties.Resources.resources
+C:\Users\Pelin\Desktop\Nesneye Yönelik Programlama\çalışmalar\Veri-Odev-2-Soru-2\Veri-Odev-2-Soru-2\obj\Debug\Veri-Odev-2-Soru-2.csproj.GenerateResource.Cache
+C:\Users\Pelin\Desktop\Nesneye Yönelik Programlama\çalışmalar\Veri-Odev-2-Soru-2\Veri-Odev-2-Soru-2\obj\Debug\Veri-Odev-2-Soru-2.exe
+C:\Users\Pelin\Desktop\Nesneye Yönelik Programlama\çalışmalar\Veri-Odev-2-Soru-2\Veri-Odev-2-Soru-2\obj\Debug\Veri-Odev-2-Soru-2.pdb
+C:\Users\Pelin\Desktop\Veri-Odev-2-Soru-2\Veri-Odev-2-Soru-2\bin\Debug\Veri-Odev-2-Soru-2.exe.config
+C:\Users\Pelin\Desktop\Veri-Odev-2-Soru-2\Veri-Odev-2-Soru-2\obj\Debug\Veri-Odev-2-Soru-2.exe
+C:\Users\Pelin\Desktop\Veri-Odev-2-Soru-2\Veri-Odev-2-Soru-2\obj\Debug\Veri-Odev-2-Soru-2.pdb
+C:\Users\Pelin\Desktop\Veri Yapıları ÖDEV\Veri-Odev-2-Soru-2\Veri-Odev-2-Soru-2\bin\Debug\Veri-Odev-2-Soru-2.exe.config
+C:\Users\Pelin\Desktop\Veri Yapıları ÖDEV\Veri-Odev-2-Soru-2\Veri-Odev-2-Soru-2\obj\Debug\Veri-Odev-2-Soru-2.exe
+C:\Users\Pelin\Desktop\Veri Yapıları ÖDEV\Veri-Odev-2-Soru-2\Veri-Odev-2-Soru-2\obj\Debug\Veri-Odev-2-Soru-2.pdb
+C:\Users\Pelin\Desktop\Veri Yapıları ÖDEV\Veri-Odev-2-Soru-2\Veri-Odev-2-Soru-2\bin\Debug\Veri-Odev-2-Soru-2.exe
+C:\Users\Pelin\Desktop\Veri Yapıları ÖDEV\Veri-Odev-2-Soru-2\Veri-Odev-2-Soru-2\bin\Debug\Veri-Odev-2-Soru-2.pdb
+C:\Users\Pelin\Desktop\Veri Yapıları ÖDEV\Veri-Odev-2-Soru-2\Veri-Odev-2-Soru-2\obj\Debug\Veri-Odev-2-Soru-2.csprojResolveAssemblyReference.cache
+C:\Users\Pelin\Desktop\Veri Yapıları ÖDEV\Veri-Odev-2-Soru-2\Veri-Odev-2-Soru-2\obj\Debug\Veri_Odev_2_Soru_2.frmSoru2.resources
+C:\Users\Pelin\Desktop\Veri Yapıları ÖDEV\Veri-Odev-2-Soru-2\Veri-Odev-2-Soru-2\obj\Debug\Veri_Odev_2_Soru_2.Properties.Resources.resources
+C:\Users\Pelin\Desktop\Veri Yapıları ÖDEV\Veri-Odev-2-Soru-2\Veri-Odev-2-Soru-2\obj\Debug\Veri-Odev-2-Soru-2.csproj.GenerateResource.Cache
+C:\Users\AlpPelin\Desktop\Grup41_Uygulama2\Veri-Odev-2-Soru-2\bin\Debug\Veri-Odev-2-Soru-2.exe.config
+C:\Users\AlpPelin\Desktop\Grup41_Uygulama2\Veri-Odev-2-Soru-2\obj\Debug\Veri-Odev-2-Soru-2.exe
+C:\Users\AlpPelin\Desktop\Grup41_Uygulama2\Veri-Odev-2-Soru-2\obj\Debug\Veri-Odev-2-Soru-2.pdb
